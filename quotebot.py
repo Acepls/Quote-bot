@@ -127,4 +127,4 @@ async def getquote(message: str):
     db.commit()    
 
 
-bot.run("[token]")
+bot.run("NzI3NjY5MjkwMzQ5ODg3NTU2.XvvNeQ.QHJGj4ymoQSnAR_P2WwjKv0TUzw")
